@@ -1,5 +1,6 @@
 # heart-rate
-# -*- coding: utf-8 -*-
+
+-*- coding: utf-8 -*-
 import cv2
 import os
 import matplotlib.pyplot as plt
